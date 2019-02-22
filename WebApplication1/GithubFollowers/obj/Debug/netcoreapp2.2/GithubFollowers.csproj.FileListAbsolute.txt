@@ -1,0 +1,14 @@
+E:\csharpStuff\code\Github_Followers\WebApplication1\GithubFollowers\obj\Debug\netcoreapp2.2\GithubFollowers.csprojAssemblyReference.cache
+E:\csharpStuff\code\Github_Followers\WebApplication1\GithubFollowers\obj\Debug\netcoreapp2.2\GithubFollowers.csproj.CoreCompileInputs.cache
+E:\csharpStuff\code\Github_Followers\WebApplication1\GithubFollowers\obj\Debug\netcoreapp2.2\GithubFollowers.RazorAssemblyInfo.cache
+E:\csharpStuff\code\Github_Followers\WebApplication1\GithubFollowers\obj\Debug\netcoreapp2.2\GithubFollowers.RazorAssemblyInfo.cs
+E:\csharpStuff\code\Github_Followers\WebApplication1\GithubFollowers\obj\Debug\netcoreapp2.2\GithubFollowers.AssemblyInfoInputs.cache
+E:\csharpStuff\code\Github_Followers\WebApplication1\GithubFollowers\obj\Debug\netcoreapp2.2\GithubFollowers.AssemblyInfo.cs
+E:\csharpStuff\code\Github_Followers\WebApplication1\GithubFollowers\bin\Debug\netcoreapp2.2\GithubFollowers.deps.json
+E:\csharpStuff\code\Github_Followers\WebApplication1\GithubFollowers\bin\Debug\netcoreapp2.2\GithubFollowers.runtimeconfig.json
+E:\csharpStuff\code\Github_Followers\WebApplication1\GithubFollowers\bin\Debug\netcoreapp2.2\GithubFollowers.runtimeconfig.dev.json
+E:\csharpStuff\code\Github_Followers\WebApplication1\GithubFollowers\bin\Debug\netcoreapp2.2\GithubFollowers.dll
+E:\csharpStuff\code\Github_Followers\WebApplication1\GithubFollowers\bin\Debug\netcoreapp2.2\GithubFollowers.pdb
+E:\csharpStuff\code\Github_Followers\WebApplication1\GithubFollowers\obj\Debug\netcoreapp2.2\GithubFollowers.RazorTargetAssemblyInfo.cache
+E:\csharpStuff\code\Github_Followers\WebApplication1\GithubFollowers\obj\Debug\netcoreapp2.2\GithubFollowers.dll
+E:\csharpStuff\code\Github_Followers\WebApplication1\GithubFollowers\obj\Debug\netcoreapp2.2\GithubFollowers.pdb

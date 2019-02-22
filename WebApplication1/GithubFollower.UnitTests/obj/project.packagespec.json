@@ -1,0 +1,67 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "E:\\csharpStuff\\code\\Github_Followers\\WebApplication1\\GithubFollower.UnitTests\\GithubFollower.UnitTests.csproj",
+    "projectName": "GithubFollower.UnitTests",
+    "projectPath": "E:\\csharpStuff\\code\\Github_Followers\\WebApplication1\\GithubFollower.UnitTests\\GithubFollower.UnitTests.csproj",
+    "outputPath": "E:\\csharpStuff\\code\\Github_Followers\\WebApplication1\\GithubFollower.UnitTests\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "E:\\csharpStuff\\code\\Github_Followers\\WebApplication1\\GithubFollowers\\GithubFollowers.csproj": {
+            "projectPath": "E:\\csharpStuff\\code\\Github_Followers\\WebApplication1\\GithubFollowers\\GithubFollowers.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.AspNet.WebApi.Client": {
+          "target": "Package",
+          "version": "[5.2.7, )"
+        },
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[15.9.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "NUnit3TestAdapter": {
+          "target": "Package",
+          "version": "[3.11.0, )"
+        },
+        "Newtonsoft.Json": {
+          "target": "Package",
+          "version": "[12.0.1, )"
+        },
+        "nunit": {
+          "target": "Package",
+          "version": "[3.11.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
