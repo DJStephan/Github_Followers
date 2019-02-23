@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1445df3d-a943-4f97-92b4-1a9650037aff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/GithubFollower.UnitTests/FollowerLogicTests/logicTests.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GithubFollower.UnitTests/FollowerServiceTests/ServiceTests.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GithubFollowers/BizLogic/FollowerLogic.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GithubFollowers/BizLogic/IFollowerLogic.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GithubFollowers/BizLogic/Models/User.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GithubFollowers/BizLogic/UsernameDoesNotExistException.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GithubFollowers/GithubRequests/GithubRequest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GithubFollowers/GithubRequests/GithubUser.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GithubFollowers/GithubRequests/IGithubRequest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GithubFollowers/Services/Dtos/UserDto.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GithubFollowers/Services/FollowerService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GithubFollowers/Services/IFollowerService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GithubFollowers/Services/Mapper/MappingProfile.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GithubFollowers/BizLogic/FollowerLogic.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GithubFollowers/BizLogic/FollowerLogic.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,10 +12,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GithubFollowers/Controllers/FollowersController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
+            <state relative-caret-position="255">
               <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
               <folding>
                 <marker date="1550868529810" expanded="false" signature="6:164" ph="..." />
@@ -44,7 +31,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GithubFollowers/Services/FollowerService.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="-45">
               <caret line="26" column="87" lean-forward="true" selection-start-line="26" selection-start-column="87" selection-end-line="26" selection-end-column="87" />
               <folding>
                 <marker date="1550875396216" expanded="false" signature="6:239" ph="..." />
@@ -74,30 +61,30 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GithubFollowers/BizLogic/FollowerLogic.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="109" column="25" selection-start-line="109" selection-start-column="25" selection-end-line="109" selection-end-column="25" />
+            <state relative-caret-position="-757">
+              <caret line="49" column="45" selection-start-line="49" selection-start-column="45" selection-end-line="49" selection-end-column="45" />
               <folding>
-                <marker date="1550875394007" expanded="false" signature="6:235" ph="..." />
-                <marker date="1550875394007" expanded="true" signature="271:5285" ph="{...}" />
-                <marker date="1550875394007" expanded="true" signature="321:5278" ph="{...}" />
-                <marker date="1550875394007" expanded="true" signature="554:648" ph="{...}" />
-                <marker date="1550875394007" expanded="true" signature="666:1156" ph="/// Takes a string of a github username and returns a List&lt;User&gt; of users that follow the passed username. ... " />
-                <marker date="1550875394007" expanded="true" signature="1224:1946" ph="{...}" />
-                <marker date="1550875394007" expanded="true" signature="1768:1901" ph="{...}" />
-                <marker date="1550875394007" expanded="true" signature="1964:2460" ph="///  ... " />
-                <marker date="1550875394007" expanded="true" signature="2540:4208" ph="{...}" />
-                <marker date="1550875394007" expanded="true" signature="2577:4198" ph="{...}" />
-                <marker date="1550875394007" expanded="true" signature="2689:2817" ph="{...}" />
-                <marker date="1550875394007" expanded="true" signature="2973:3259" ph="{...}" />
-                <marker date="1550875394007" expanded="true" signature="3075:3237" ph="{...}" />
-                <marker date="1550875394007" expanded="true" signature="3414:3856" ph="{...}" />
-                <marker date="1550875394007" expanded="true" signature="3516:3834" ph="{...}" />
-                <marker date="1550875394007" expanded="true" signature="3636:3808" ph="{...}" />
-                <marker date="1550875394007" expanded="true" signature="4226:4583" ph="///  ... " />
-                <marker date="1550875394007" expanded="true" signature="4655:5272" ph="{...}" />
+                <marker date="1550883628228" expanded="false" signature="6:235" ph="..." />
+                <marker date="1550883628228" expanded="true" signature="271:5286" ph="{...}" />
+                <marker date="1550883628228" expanded="true" signature="321:5279" ph="{...}" />
+                <marker date="1550883628228" expanded="true" signature="554:648" ph="{...}" />
+                <marker date="1550883628228" expanded="true" signature="666:1156" ph="/// Takes a string of a github username and returns a List&lt;User&gt; of users that follow the passed username. ... " />
+                <marker date="1550883628228" expanded="true" signature="1224:1946" ph="{...}" />
+                <marker date="1550883628228" expanded="true" signature="1768:1901" ph="{...}" />
+                <marker date="1550883628228" expanded="true" signature="1964:2461" ph="///  ... " />
+                <marker date="1550883628228" expanded="true" signature="2541:4209" ph="{...}" />
+                <marker date="1550883628228" expanded="true" signature="2578:4199" ph="{...}" />
+                <marker date="1550883628228" expanded="true" signature="2690:2818" ph="{...}" />
+                <marker date="1550883628228" expanded="true" signature="2974:3260" ph="{...}" />
+                <marker date="1550883628228" expanded="true" signature="3076:3238" ph="{...}" />
+                <marker date="1550883628228" expanded="true" signature="3415:3857" ph="{...}" />
+                <marker date="1550883628228" expanded="true" signature="3517:3835" ph="{...}" />
+                <marker date="1550883628228" expanded="true" signature="3637:3809" ph="{...}" />
+                <marker date="1550883628228" expanded="true" signature="4227:4584" ph="///  ... " />
+                <marker date="1550883628228" expanded="true" signature="4656:5273" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -106,7 +93,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GithubFollowers/GithubRequests/GithubRequest.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
+            <state relative-caret-position="68">
               <caret line="21" column="116" selection-start-line="21" selection-start-column="116" selection-end-line="21" selection-end-column="116" />
               <folding>
                 <marker date="1550874720186" expanded="false" signature="6:183" ph="..." />
@@ -240,12 +227,12 @@
       <workItem from="1550766603609" duration="756000" />
       <workItem from="1550767435320" duration="13504000" />
       <workItem from="1550846147567" duration="24355000" />
-      <workItem from="1550874533639" duration="862000" />
+      <workItem from="1550874533639" duration="2051000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52091000" />
+    <option name="totallyTimeSpent" value="53280000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -258,8 +245,37 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.13036437" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.3285968" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" weight="0.3285968" />
+      <window_info anchor="bottom" id="REST Client" order="12" weight="0.73712254" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.3285968" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24939272" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+    <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13036437" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
@@ -277,36 +293,6 @@
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info active="true" anchor="bottom" id="Unit Tests" order="11" visible="true" weight="0.3285968" />
-      <window_info anchor="bottom" id="REST Client" order="12" weight="0.73712254" />
-      <window_info anchor="bottom" id="Terminal" order="13" />
-      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="15" weight="0.3285968" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24939272" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="right" id="Errors In Solution" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12874494" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="NuGet" order="7" weight="0.3285968" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Unit Tests" order="11" weight="0.3285968" />
       <window_info anchor="bottom" id="REST Client" order="12" weight="0.73712254" />
       <window_info anchor="bottom" id="Terminal" order="13" />
       <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
@@ -376,20 +362,6 @@
             <marker date="1550868615194" expanded="true" signature="3076:3145" ph="{...}" />
             <marker date="1550868615194" expanded="true" signature="3246:3315" ph="{...}" />
             <marker date="1550868615194" expanded="true" signature="3455:3524" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GithubFollowers/Controllers/FollowersController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-          <folding>
-            <marker date="1550868529810" expanded="false" signature="6:164" ph="..." />
-            <marker date="1550868529810" expanded="true" signature="203:726" ph="{...}" />
-            <marker date="1550868529810" expanded="true" signature="314:724" ph="{...}" />
-            <marker date="1550868529810" expanded="true" signature="449:517" ph="{...}" />
-            <marker date="1550868529810" expanded="true" signature="632:718" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -501,9 +473,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/GithubFollowers/BizLogic/IFollowerLogic.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <marker date="1550874821419" expanded="false" signature="6:154" ph="..." />
+            <marker date="1550874821419" expanded="true" signature="190:298" ph="{...}" />
+            <marker date="1550874821419" expanded="true" signature="228:296" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/GithubFollowers/GithubRequests/GithubRequest.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
+        <state relative-caret-position="68">
           <caret line="21" column="116" selection-start-line="21" selection-start-column="116" selection-end-line="21" selection-end-column="116" />
           <folding>
             <marker date="1550874720186" expanded="false" signature="6:183" ph="..." />
@@ -518,31 +502,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GithubFollowers/BizLogic/IFollowerLogic.cs">
+    <entry file="file://$PROJECT_DIR$/GithubFollowers/BizLogic/FollowerLogic.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="-757">
+          <caret line="49" column="45" selection-start-line="49" selection-start-column="45" selection-end-line="49" selection-end-column="45" />
           <folding>
-            <marker date="1550874821419" expanded="false" signature="6:154" ph="..." />
-            <marker date="1550874821419" expanded="true" signature="190:298" ph="{...}" />
-            <marker date="1550874821419" expanded="true" signature="228:296" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GithubFollowers/Services/FollowerService.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="26" column="87" lean-forward="true" selection-start-line="26" selection-start-column="87" selection-end-line="26" selection-end-column="87" />
-          <folding>
-            <marker date="1550875396216" expanded="false" signature="6:239" ph="..." />
-            <marker date="1550875396216" expanded="true" signature="279:1783" ph="{...}" />
-            <marker date="1550875396216" expanded="true" signature="333:1781" ph="{...}" />
-            <marker date="1550875396216" expanded="true" signature="497:591" ph="{...}" />
-            <marker date="1550875396216" expanded="true" signature="600:1070" ph="/// Takes github username and returns a nested list of that users followers with status code 200 if successful, ... " />
-            <marker date="1550875396216" expanded="true" signature="1141:1775" ph="{...}" />
-            <marker date="1550875396216" expanded="true" signature="1201:1302" ph="{...}" />
-            <marker date="1550875396216" expanded="true" signature="1334:1631" ph="{...}" />
+            <marker date="1550883628228" expanded="false" signature="6:235" ph="..." />
+            <marker date="1550883628228" expanded="true" signature="271:5286" ph="{...}" />
+            <marker date="1550883628228" expanded="true" signature="321:5279" ph="{...}" />
+            <marker date="1550883628228" expanded="true" signature="554:648" ph="{...}" />
+            <marker date="1550883628228" expanded="true" signature="666:1156" ph="/// Takes a string of a github username and returns a List&lt;User&gt; of users that follow the passed username. ... " />
+            <marker date="1550883628228" expanded="true" signature="1224:1946" ph="{...}" />
+            <marker date="1550883628228" expanded="true" signature="1768:1901" ph="{...}" />
+            <marker date="1550883628228" expanded="true" signature="1964:2461" ph="///  ... " />
+            <marker date="1550883628228" expanded="true" signature="2541:4209" ph="{...}" />
+            <marker date="1550883628228" expanded="true" signature="2578:4199" ph="{...}" />
+            <marker date="1550883628228" expanded="true" signature="2690:2818" ph="{...}" />
+            <marker date="1550883628228" expanded="true" signature="2974:3260" ph="{...}" />
+            <marker date="1550883628228" expanded="true" signature="3076:3238" ph="{...}" />
+            <marker date="1550883628228" expanded="true" signature="3415:3857" ph="{...}" />
+            <marker date="1550883628228" expanded="true" signature="3517:3835" ph="{...}" />
+            <marker date="1550883628228" expanded="true" signature="3637:3809" ph="{...}" />
+            <marker date="1550883628228" expanded="true" signature="4227:4584" ph="///  ... " />
+            <marker date="1550883628228" expanded="true" signature="4656:5273" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -559,29 +541,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GithubFollowers/BizLogic/FollowerLogic.cs">
+    <entry file="file://$PROJECT_DIR$/GithubFollowers/Services/FollowerService.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="109" column="25" selection-start-line="109" selection-start-column="25" selection-end-line="109" selection-end-column="25" />
+        <state relative-caret-position="-45">
+          <caret line="26" column="87" lean-forward="true" selection-start-line="26" selection-start-column="87" selection-end-line="26" selection-end-column="87" />
           <folding>
-            <marker date="1550875394007" expanded="false" signature="6:235" ph="..." />
-            <marker date="1550875394007" expanded="true" signature="271:5285" ph="{...}" />
-            <marker date="1550875394007" expanded="true" signature="321:5278" ph="{...}" />
-            <marker date="1550875394007" expanded="true" signature="554:648" ph="{...}" />
-            <marker date="1550875394007" expanded="true" signature="666:1156" ph="/// Takes a string of a github username and returns a List&lt;User&gt; of users that follow the passed username. ... " />
-            <marker date="1550875394007" expanded="true" signature="1224:1946" ph="{...}" />
-            <marker date="1550875394007" expanded="true" signature="1768:1901" ph="{...}" />
-            <marker date="1550875394007" expanded="true" signature="1964:2460" ph="///  ... " />
-            <marker date="1550875394007" expanded="true" signature="2540:4208" ph="{...}" />
-            <marker date="1550875394007" expanded="true" signature="2577:4198" ph="{...}" />
-            <marker date="1550875394007" expanded="true" signature="2689:2817" ph="{...}" />
-            <marker date="1550875394007" expanded="true" signature="2973:3259" ph="{...}" />
-            <marker date="1550875394007" expanded="true" signature="3075:3237" ph="{...}" />
-            <marker date="1550875394007" expanded="true" signature="3414:3856" ph="{...}" />
-            <marker date="1550875394007" expanded="true" signature="3516:3834" ph="{...}" />
-            <marker date="1550875394007" expanded="true" signature="3636:3808" ph="{...}" />
-            <marker date="1550875394007" expanded="true" signature="4226:4583" ph="///  ... " />
-            <marker date="1550875394007" expanded="true" signature="4655:5272" ph="{...}" />
+            <marker date="1550875396216" expanded="false" signature="6:239" ph="..." />
+            <marker date="1550875396216" expanded="true" signature="279:1783" ph="{...}" />
+            <marker date="1550875396216" expanded="true" signature="333:1781" ph="{...}" />
+            <marker date="1550875396216" expanded="true" signature="497:591" ph="{...}" />
+            <marker date="1550875396216" expanded="true" signature="600:1070" ph="/// Takes github username and returns a nested list of that users followers with status code 200 if successful, ... " />
+            <marker date="1550875396216" expanded="true" signature="1141:1775" ph="{...}" />
+            <marker date="1550875396216" expanded="true" signature="1201:1302" ph="{...}" />
+            <marker date="1550875396216" expanded="true" signature="1334:1631" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GithubFollowers/Controllers/FollowersController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding>
+            <marker date="1550868529810" expanded="false" signature="6:164" ph="..." />
+            <marker date="1550868529810" expanded="true" signature="203:726" ph="{...}" />
+            <marker date="1550868529810" expanded="true" signature="314:724" ph="{...}" />
+            <marker date="1550868529810" expanded="true" signature="449:517" ph="{...}" />
+            <marker date="1550868529810" expanded="true" signature="632:718" ph="{...}" />
           </folding>
         </state>
       </provider>

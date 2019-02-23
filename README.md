@@ -6,8 +6,8 @@
 
 Using **Github_Followers** is simple, all you need to do is clone this repository and install the .Net Core run-time version 2.2. You can find the run-time [here](https://dotnet.microsoft.com/download/thank-you/dotnet-runtime-2.2.2-windows-hosting-bundle-installer).
 
-Once you have installed the .Net core run-time, open your command prompt and navigate to the location that you saved this repository. Then navigate to Github_Followers\WebApplication1\GithubFollowers. Once you are here type the command 
-> dotnet run
+Once you have installed the .Net core run-time, open your command prompt and navigate to the location that you saved this repository. Once you are here type the command 
+> dotnet GithubFollowers.dll
 
 into your command prompt and hit enter, this will start the server on local port 5000.
 

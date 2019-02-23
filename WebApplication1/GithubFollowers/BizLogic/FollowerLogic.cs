@@ -47,7 +47,7 @@ namespace WebApplication1.BizLogic
         
         /// <summary>
         /// This method takes a base list containing the first level of followers and determines what level of
-        /// followers need to be found. Retuns a new List<User> that represents all followers at current level.
+        /// followers need to be found. Returns a new List<User> that represents all followers at current level.
         /// Throws InvalidOperationException if class variable "level" is not between 1-3.
         /// </summary>
         /// <param name="followers"></param>
