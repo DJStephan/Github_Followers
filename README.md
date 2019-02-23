@@ -11,7 +11,7 @@ Once you have installed the .Net core run-time, open your command prompt and nav
 
 into your command prompt and hit enter, this will start the server on local port 5000.
 
-Once the server is running if you want to make a call to the API all you need to is copy the following into the address bar of your favorite browser (but maybe not Edge):
+Once the server is running if you want to make a call to the API all you need to do is copy the following into the address bar of your favorite browser (but maybe not Edge):
 > http://localhost:5000/github/followers/:username
 
 Where :username is the username of the Github user you are interested in.
